@@ -1,0 +1,38 @@
+.heading{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.heading_div{
+    background: darkcyan;
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px gray;
+}
+.trained_items{
+    font-size: 18px;
+    border-radius: 20px;
+}
+.object_result{
+    box-shadow: 5px 5px 5px gray;
+    font-size: 20px;
+}
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border: 5px dotted darkcyan;
+border-radius: 20px;
+margin-top: 150px;
+}
+.copyright_footer{
+    background-color: darkcyan;
+    position: fixed;
+    bottom: 0;
+    color: whitesmoke;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    box-shadow: 5px 5px 5px gray;
+}
