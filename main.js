@@ -15,7 +15,7 @@ classifier.classify(video, gotResult)
 function modelLoaded(){
     console.log("Models have been loaded!")
 }
-function gotResult(results, error){
+function gotResult(error, results){
 if(error){
     console.log(error)
 }
